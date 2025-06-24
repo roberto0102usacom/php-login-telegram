@@ -1,0 +1,16 @@
+{
+  "telegram": {
+    "bot_token": "7791794772:AAErkPdbo7tRZ_e_bOVuLyBQF7kGwnXNOBI",
+    "chat_id": "732332108"
+  },
+  "security": {
+    "max_login_attempts": 5,
+    "lockout_time": 300,
+    "rate_limit_enabled": true
+  },
+  "app": {
+    "name": "Secure Login System",
+    "version": "1.0.0",
+    "debug_mode": false
+  }
+}
